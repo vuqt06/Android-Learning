@@ -1,0 +1,34 @@
+
+
+HYour assignment HAS NOT BEEN SUBMITTED. The following test results only
+estimate your grade.
+
+
+!Your estimated score is: 90.0/90
+K(This is not your actual grade for this assignment, just an estimate. Your
+Oofficial grade will be calculated after you submit your submission.zip file to
+
+Coursera.
+
+
+Q------------------------------Assignment Evaluation-----------------------------
+Q--------Your solution received points for the following grading rubrics:--------
+
+
+testResultRange
+Rubric Score: 30.0/30.0
+HGoal: The goal of this evaluation is to test ResultRange return values.
+NReference: This Test fails when: calculate returns a value outside the range.
+
+testEfficiency
+Rubric Score: 30.0/30.0
+JGoal: The goal of this evaluation is to test overall solution efficiency.
+GReference: This Test fails when: the solution is slow and inefficient.
+
+testCalculateThreshold
+Rubric Score: 30.0/30.0
+QGoal: The goal of this evaluation is to test Calculate with return values within
+a threshold
+QReference: This Test fails when: calculate method failed to meet a 3% threshold.
+
+
